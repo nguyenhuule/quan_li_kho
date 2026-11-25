@@ -1,0 +1,8 @@
+streamlit>=1.37
+pandas
+Pillow
+qrcode
+python-docx
+# Tùy chọn: đọc mã QR khôi phục từ ảnh tải lên
+numpy
+opencv-python-headless
